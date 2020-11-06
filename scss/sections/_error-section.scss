@@ -1,0 +1,12 @@
+.error {
+    height: 50vh;
+    margin: 10% 15%;
+    &__p {
+        font-size: 3rem;
+        margin-bottom: 5%;
+    }
+    &__btn {
+        text-align: center;
+        @include btn(9vw, 7vh, 2%, 2rem);
+    }
+}

@@ -1,0 +1,26 @@
+
+    .aside {
+        min-width:25%;
+        min-height:75vh;
+        margin: 1% 0;
+        background-color: #fff;
+        text-align: center;
+        &__ul {
+            height: 30vh;    
+            display:flex;
+            flex-direction: column;
+            justify-content: space-around;
+            .aside__li a {
+                font-size: 2.2rem;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-weight: 500;
+                color: $main-color;
+                transition: 0.3s;
+                &:hover {
+                    font-size: 2.7rem;
+                    font-weight: 700;
+                }
+            }  
+        }
+    }

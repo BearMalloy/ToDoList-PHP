@@ -1,0 +1,8 @@
+.footer {
+    @media(min-width:1200px) {
+        width:80vw;
+    }
+    min-height:10vh;
+    margin:0 auto;
+    background-color: $main-color;
+}
