@@ -14,7 +14,7 @@
 <body>
     <div class="container">
         <header class="header">
-            <h1 class="header__h1">To do app <i class="fab fa-the-red-yeti"></i></h1>
+            <h1 class="header__h1">To do app <span class="fab fa-the-red-yeti"></span></h1>
         </header>
         <main class="main">
             <aside class="aside">
@@ -33,5 +33,4 @@
     </div>
     <script src="https://kit.fontawesome.com/9e7d514733.js" crossorigin="anonymous"></script>
 </body>
-
 </html>

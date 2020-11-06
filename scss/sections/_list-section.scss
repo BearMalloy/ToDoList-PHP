@@ -77,8 +77,8 @@
             }
             .table__details {
                 @include btn(8vw, 5vh ,10px 15px, 1.3rem);
-                @media (max-width:1025px) {
-                    @include btn(10vw, 3vh ,10px 15px, 1.3rem);
+                @media (max-width:1200px) {
+                    @include btn(10vw, 4vh ,10px 15px, 1.3rem);
                 }
                 @media (max-width:800px) {
                     @include btn(14vw, 3vh ,10px 15px, 1.3rem);
