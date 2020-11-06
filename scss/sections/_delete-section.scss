@@ -11,7 +11,7 @@
     &__btn {
         text-align: center;
         @include btn(9vw, 7vh, 2%, 2rem);
-        @media (max-width: 1025px) {
+        @media (max-width: 1200px) {
             @include btn(12vw, 5vh, 2%, 2rem);
         }
     }

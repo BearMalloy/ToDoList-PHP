@@ -12,10 +12,13 @@
     font-weight: bold;
     cursor:pointer;
     transition: .4s;
-    &:hover{
-        background-color: darken($color: $main-color, $amount: 15%);
+    @media (min-width: 1024px) {
+        &:hover{
+            background-color: darken($color: $main-color, $amount: 15%);
+        }
     }
-}
+    }
+    
 
 @mixin input {
     display:block;
