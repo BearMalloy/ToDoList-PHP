@@ -23,30 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2321cdcb-d625-4a5b-b872-5c8691d2eb7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/final.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/final.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_aside.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/final.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/final.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/sections/_create-section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/sections/_delete-section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/sections/_error-section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/sections/_list-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/sections/_list-section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/sections/_show-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/sections/_show-section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/error.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/show.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +126,8 @@
       <workItem from="1602685594997" duration="213000" />
       <workItem from="1604491747231" duration="87000" />
       <workItem from="1606117398984" duration="262000" />
-      <workItem from="1606117691808" duration="19865000" />
+      <workItem from="1606117691808" duration="20815000" />
+      <workItem from="1606141537412" duration="248000" />
     </task>
     <servers />
   </component>
@@ -165,6 +144,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="60" key="#CLI_Interpreters" timestamp="1597821202842">
