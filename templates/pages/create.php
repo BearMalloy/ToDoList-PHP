@@ -1,13 +1,17 @@
-<span class="create-title">dodawanie nowej notatki</span>
-<form class="form-create" method="post" action="/?action=create">
-    <label for="title" class="form-create__title">
-        Tytuł <span class="form-create__title--span">*</span>
-        <input type="text" name="title" required class="form-create__title--input">
-    </label>
-    <label for="description" class="form-create__description"> Opis
-        <textarea name="description" cols="30" rows="10" class="form-create__description--textarea"></textarea>
-    </label>
-    <br>
-    <input type="submit" class="form-create__button" value="Dodaj">
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb bg-primary">
+        <h5 class="text-white text-center">Dodawanie nowej notatki</h5>
+    </ol>
+</nav>
+<form method="post" action="/?action=create">
+    <div class="form-group">
+        <label><h5>Tytuł:</h5></label>
+        <input name="title" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label><h5>Opis:</h5></label>
+        <textarea class="form-control" name="description" rows="5"></textarea>
+    </div>
+    <button type="submit" class="btn btn-lg btn-primary d-block m-auto">Dodaj</button>
 </form>
-</div>

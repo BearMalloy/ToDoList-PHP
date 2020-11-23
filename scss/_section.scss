@@ -1,53 +1,6 @@
-@mixin btn ($w, $h, $padding, $fsize) {
-    width: $w;
-    height: $h;
-    padding: $padding;
-    font-size: $fsize;
-    margin: 1%;
-    background-color: $main-color;
-    color:white;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    border:none;
-    font-weight: bold;
-    cursor:pointer;
-    transition: .4s;
-    @media (min-width: 1024px) {
-        &:hover{
-            background-color: darken($color: $main-color, $amount: 15%);
-        }
-    }
-    }
-    
 
-@mixin input {
-    display:block;
-    margin-top: 1%;
-    height:7vh;
-    width:50vw;
-    font-size: 2.5rem;
-    padding: 0 10px;
-    @media (max-width:1025px) {
-        height:5vh;
-        width:70vw;
-    }
-}
-@mixin textarea {
-    display:block;
-    margin-top: 1%;
-    height:30vh;
-    width:50vw;
-    font-size: 2.5rem;
-    padding: 1% 10px;
-    @media (max-width:1025px) {
-        width:70vw;
-        height:20vh;
-    }
-    
-}
 
 @import "sections/list-section";
-@import "sections/create-section";
 @import "sections/show-section";
 @import "sections/delete-section";
 @import "sections/error-section";

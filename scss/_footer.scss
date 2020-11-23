@@ -1,8 +1,9 @@
 .footer {
-    @media(min-width:1200px) {
-        width:80vw;
-    }
-    min-height:10vh;
-    margin:0 auto;
-    background-color: $main-color;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height:10vh;
+  .footer__h6 {
+    font-style: italic;
+  }
 }

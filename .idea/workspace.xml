@@ -3,8 +3,51 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2321cdcb-d625-4a5b-b872-5c8691d2eb7d" name="Default Changelist" comment="" />
+    <list default="true" id="2321cdcb-d625-4a5b-b872-5c8691d2eb7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/final.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/final.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/final.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/final.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/sections/_create-section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/sections/_delete-section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/sections/_error-section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/sections/_list-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/sections/_list-section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/sections/_show-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/sections/_show-section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/show.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +64,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1gEZ3VSVOmAc4L4WTaiCecm3lEV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,11 +147,24 @@
       <workItem from="1602253365031" duration="301000" />
       <workItem from="1602685594997" duration="213000" />
       <workItem from="1604491747231" duration="87000" />
+      <workItem from="1606117398984" duration="262000" />
+      <workItem from="1606117691808" duration="19865000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="60" key="#CLI_Interpreters" timestamp="1597821202842">
@@ -127,6 +187,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="568" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1598097389290" />
+    <state x="558" y="203" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606118480892">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="203" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1606118480892" />
     <state x="606" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1600368209541">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -143,10 +207,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="531" y="185" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1600365474487" />
-    <state x="447" y="178" key="EditFileWatcherDialog" timestamp="1602253595560">
+    <state x="447" y="178" width="662" height="640" key="EditFileWatcherDialog" timestamp="1606118482179">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="447" y="178" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1602253595560" />
+    <state x="447" y="178" width="662" height="640" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1606118482179" />
     <state x="716" y="184" key="FileChooserDialogImpl" timestamp="1597821198602">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -175,10 +239,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="613" y="323" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1602010389399" />
-    <state x="279" y="45" key="SettingsEditor" timestamp="1602253601211">
+    <state x="279" y="45" key="SettingsEditor" timestamp="1606118483601">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="279" y="45" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1602253601211" />
+    <state x="279" y="45" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606118483601" />
     <state x="643" y="191" key="refactoring.ChangeSignatureDialog" timestamp="1598365669091">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -1,3 +1,5 @@
-$main-color:#1a8cff;
-$main-font: 'Montserrat', 'sans-serif'; 
+$primary: #1a8cff;
+$theme-colors:  (
+  'primary': $primary
+);
 $header-font: 'Bangers', 'Arial', 'sans-serif';

@@ -1,7 +1,13 @@
 
-
 @import "variables";
-@import "reset";
+@import "../node_modules/bootstrap/scss/bootstrap";
+body {
+  background-color: #ccc;
+  @media (orientation: portrait) {
+    min-width:150vw;
+  }
+}
 @import "header";
 @import "main";
 @import "footer";
+
